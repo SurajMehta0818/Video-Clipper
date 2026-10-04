@@ -1,0 +1,6 @@
+yt-dlp[default]
+deno
+imageio-ffmpeg
+faster-whisper
+numpy
+ 
